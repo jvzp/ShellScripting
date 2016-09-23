@@ -1,0 +1,5 @@
+pit	pt
+spot	Pot
+spate	peat
+slap_two	part
+respite
